@@ -3,7 +3,7 @@
 
 > **What really drives employees to leave?** This project analyses 1,470 IBM employee records across 35 variables to uncover the true drivers behind a 16.1% company-wide attrition rate — proving that overtime, low pay, and poor work-life balance are far more powerful predictors than most organisations realise.
 
-<br>
+![Dashboard - Preview](https://github.com/simplysmarty/Employee-Attrition-Risk-Analysis-Dashboard/blob/main/dashboard%20preview.png?raw=true)
 
 ---
 

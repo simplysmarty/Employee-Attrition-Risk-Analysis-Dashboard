@@ -42,7 +42,7 @@ Employee attrition is one of the most costly and disruptive challenges any organ
 ### Page 3 — Where Should HR Intervene First? (Risk/Action)
 > *Business question: Does experience reduce attrition? · Which job roles have highest exits? · What do they have in common?*
 
-![Page 3 — Risk & Action](screenshots/page3_risk_action.png)
+![Page 3 — Risk & Action](https://github.com/simplysmarty/Employee-Attrition-Risk-Analysis-Dashboard/blob/main/page3%20risk%20action.png)
 
 ---
 

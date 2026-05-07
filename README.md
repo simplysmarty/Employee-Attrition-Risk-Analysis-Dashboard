@@ -28,7 +28,7 @@ Employee attrition is one of the most costly and disruptive challenges any organ
 ### Page 1 — What is Happening? (Overview)
 > *Business question: What is the overall attrition rate, and which department has the highest exits?*
 
-![Page 1 — Overview](screenshots/page1_overview.png)
+![Page 1 — Overview](https://github.com/simplysmarty/Employee-Attrition-Risk-Analysis-Dashboard/blob/main/page1%20overview.png)
 
 ---
 

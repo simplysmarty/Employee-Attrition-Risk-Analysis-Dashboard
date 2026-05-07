@@ -35,7 +35,7 @@ Employee attrition is one of the most costly and disruptive challenges any organ
 ### Page 2 — Why is it Happening? (Drivers)
 > *Business question: Overtime vs attrition · Job satisfaction vs attrition · Salary band vs attrition*
 
-![Page 2 — Drivers](screenshots/page2_drivers.png)
+![Page 2 — Drivers](https://github.com/simplysmarty/Employee-Attrition-Risk-Analysis-Dashboard/blob/main/page2%20drivers.png)
 
 ---
 
